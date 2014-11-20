@@ -1,0 +1,177 @@
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\SkarpChat.dll.config
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\SkarpChat.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\SkarpChat.pdb
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Antlr3.Runtime.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.SqlServer.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Google.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Newtonsoft.Json.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Owin.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Helpers.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Mvc.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Optimization.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Razor.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Deployment.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Razor.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\WebGrease.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Helpers.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Mvc.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Optimization.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Razor.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Deployment.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Razor.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Newtonsoft.Json.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Antlr3.Runtime.pdb
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.SqlServer.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Google.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\obj\Debug\SkarpChat.csprojResolveAssemblyReference.cache
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\obj\Debug\SkarpChat.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\obj\Debug\SkarpChat.pdb
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\shashikanth\documents\visual studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\SkarpChat.dll.config
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\SkarpChat.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\SkarpChat.pdb
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Antlr3.Runtime.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.SqlServer.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Newtonsoft.Json.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Owin.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Helpers.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Mvc.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Optimization.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Razor.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\WebGrease.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Newtonsoft.Json.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Helpers.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Mvc.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Optimization.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.Razor.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Antlr3.Runtime.pdb
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\EntityFramework.SqlServer.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\obj\Debug\SkarpChat.csprojResolveAssemblyReference.cache
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\obj\Debug\SkarpChat.dll
+C:\Users\s_ramaia.CULINARY\Documents\Visual Studio 2013\Projects\SkarpChat\SkarpChat\obj\Debug\SkarpChat.pdb
+C:\SkarpChat\SkarpChat\bin\SkarpChat.dll.config
+C:\SkarpChat\SkarpChat\bin\SkarpChat.dll
+C:\SkarpChat\SkarpChat\bin\SkarpChat.pdb
+C:\SkarpChat\SkarpChat\bin\Antlr3.Runtime.dll
+C:\SkarpChat\SkarpChat\bin\EntityFramework.dll
+C:\SkarpChat\SkarpChat\bin\EntityFramework.SqlServer.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Google.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.Web.Infrastructure.dll
+C:\SkarpChat\SkarpChat\bin\Newtonsoft.Json.dll
+C:\SkarpChat\SkarpChat\bin\Owin.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.Helpers.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.Mvc.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.Optimization.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.Razor.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.WebPages.Deployment.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.WebPages.dll
+C:\SkarpChat\SkarpChat\bin\System.Web.WebPages.Razor.dll
+C:\SkarpChat\SkarpChat\bin\WebGrease.dll
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.xml
+C:\SkarpChat\SkarpChat\bin\Newtonsoft.Json.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.Helpers.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.Mvc.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.Optimization.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.Razor.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.WebPages.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.WebPages.Deployment.xml
+C:\SkarpChat\SkarpChat\bin\System.Web.WebPages.Razor.xml
+C:\SkarpChat\SkarpChat\bin\Antlr3.Runtime.pdb
+C:\SkarpChat\SkarpChat\bin\EntityFramework.xml
+C:\SkarpChat\SkarpChat\bin\EntityFramework.SqlServer.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Google.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SkarpChat\SkarpChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SkarpChat\SkarpChat\obj\Debug\SkarpChat.csprojResolveAssemblyReference.cache
+C:\SkarpChat\SkarpChat\obj\Debug\SkarpChat.dll
+C:\SkarpChat\SkarpChat\obj\Debug\SkarpChat.pdb
